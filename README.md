@@ -1,4 +1,4 @@
-<img align="left" height="200" src="animeme.png"/>
+<img align="Center" height="200" src="animeme.png"/>
 
 
 <h1 align="left">Hey, Welcome To My Page!</h1>
@@ -68,7 +68,7 @@
 </div>
 
 ###
-<p>Lets Connect!</p>
+<h3> align="center" >Lets Connect!</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tyler-boyer-0a1326183/" target="_blank">
