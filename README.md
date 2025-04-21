@@ -1,10 +1,10 @@
-<img align="Center" height="200" src="animeme.png"/>
+<img align="left" height="200" src="animeme.png"/>
 
-<h1 align="left">Hey, Welcome To My Page!</h1>
+<h1 align="right">Hey, Welcome To My Page!</h1>
 
-<p align="left">My name is Tyler! I am from the United States.</p>
+<p align="right">My name is Tyler! I am from the United States.</p>
 
-<h2 align="left">About me</h2>
+<h2 align="right">About me</h2>
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning <br>🎯 Goals: Help Animals<br>🎲 Fun fact: I like Boxing</p>
 
