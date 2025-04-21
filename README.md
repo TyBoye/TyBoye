@@ -68,6 +68,7 @@
 </div>
 
 ###
+<p>Lets Connect!</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tyler-boyer-0a1326183/" target="_blank">
