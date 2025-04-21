@@ -1,4 +1,4 @@
-<img align="left" height="200" src="https://files.oaiusercontent.com/file-5KtbnscoTTd24cQL1XgNy1?se=2025-04-21T05%3A36%3A59Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D9d369163-5451-4339-9058-2842835f52d5.webp&sig=XJwS9w5LKN/yyuv7aE5YACUOcvli6sRnKPSykj2ml1o%3D"  />
+<img align="left" height="200" src="animeme.webp"/>
 
 ###
 
