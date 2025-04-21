@@ -1,23 +1,14 @@
 <img align="Center" height="200" src="animeme.png"/>
 
-
 <h1 align="left">Hey, Welcome To My Page!</h1>
-
 
 <p align="left">My name is Tyler! I am from the United States.</p>
 
-
 <h2 align="left">About me</h2>
-
-###
 
 <p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning <br>🎯 Goals: Help Animals<br>🎲 Fun fact: I like Boxing</p>
 
-###
-
 <h2 align="center">I code with</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -67,8 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-###
-<h3 align="center">Lets Connect!</h3>
+<h2 align="center">Lets Connect!</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tyler-boyer-0a1326183/" target="_blank">
@@ -82,12 +72,8 @@
   </a>
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TyBoye/TyBoye/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TyBoye/TyBoye/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TyBoye/TyBoye/output/pacman-contribution-graph.svg">
 </picture>
-
-###
