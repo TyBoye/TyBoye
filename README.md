@@ -1,14 +1,11 @@
 <img align="left" height="200" src="animeme.webp"/>
 
-###
 
 <h1 align="left">Hey, Welcome To My Page!</h1>
 
-###
 
 <p align="left">My name is Tyler! I am from the United States.</p>
 
-###
 
 <h2 align="left">About me</h2>
 
