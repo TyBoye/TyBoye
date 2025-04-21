@@ -2,7 +2,7 @@
 
 <h1 align="left">Hey, Welcome To My Page!</h1>
 
-<p align="left">My name is Tyler! I am from the United States. Currently looking for open positions, but in the meantime just coding. Keep up to date on my latest project on my <a href="">personal site</a>!</p>
+<p align="left">My name is Tyler! I am from the United States. Currently looking for open positions, but in the meantime just coding. Keep up to date on my latest project on my <a href="https://portfolio-official-theta.vercel.app/">personal site</a>!</p>
 
 <h2 align="left">About me</h2>
 
