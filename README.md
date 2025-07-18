@@ -2,13 +2,13 @@
 
 <h1 align="left">Computer Science | Frontend Dev | Aspiring Full Stack Dev</h1>
 
-<p align="left">Hey there! 👋 I'm Tyler—a passionate developer fueled by curiosity and a love for problem-solving.  
+<p align="left">Hey there! 👋 I'm Tyler a passionate developer fueled by curiosity and a love for problem solving.  
   Currently on the hunt for exciting opportunities, but in the meantime, I'm building, breaking, and refining my projects.  
   Stay updated with my latest work on my <a href="https://portfolio-official-theta.vercel.app/">personal site</a>! 🚀</p> 
 
 <h2 align="left">About me</h2>
 
-<p align="left"><br>✨ Creating bugs since 2019<br>📚 I'm currently learning: AI/ML App Dev <br>🎯 Goals: Read More<br>🥊 Fun fact: I like boxing—it keeps me sharp in the ring and at the keyboard!</p>
+<p align="left"><br>✨ Creating bugs since 2019<br>📚 I'm currently learning: AI/ML App Dev <br>🎯 Goals: Read More<br>🥊 Fun fact: I like boxing it keeps me sharp in the ring and at the keyboard!</p>
 
 <h2 align="left">I code with</h2>
 
