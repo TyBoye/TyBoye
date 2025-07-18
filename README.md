@@ -1,6 +1,6 @@
 <img align="center" height="200" src="animeme.png"/>
 
-<h1 align="left">Computer Science | Frontend Dev | Aspiring Full Stack Dev</h1>
+<h1 align="left">Computer Science | Aspiring Full Stack Dev</h1>
 
 <p align="left">Hey there! 👋 I'm Tyler a passionate developer fueled by curiosity and a love for problem solving.  
   Currently on the hunt for exciting opportunities, but in the meantime, I'm building, breaking, and refining my projects.  
