@@ -1,5 +1,3 @@
-<img align="center" height="200" src="animeme.png"/>
-
 <h1 align="left">Computer Science | Full Stack Dev</h1>
 
 <p align="left">Hey there! 👋 I'm Tyler a passionate developer fueled by curiosity and a love for problem solving.  
