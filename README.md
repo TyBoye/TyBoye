@@ -52,14 +52,6 @@ PubGen's internal AI agent: agent brain plus a Next.js chat UI, powering task-sp
 
 On the AI side: **agents, RAG, and evals.**
 
-## Stats
-
-<div align="center">
-
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyBoye&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=f85149)
-
-</div>
-
 ## Now
 
 - Shipping CRAN features for real shelter staff
