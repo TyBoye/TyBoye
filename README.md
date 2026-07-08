@@ -1,79 +1,74 @@
-<h1 align="left">Computer Science | Full Stack Dev</h1>
-
-<p align="left">Hey there! 👋 I'm Tyler a passionate developer fueled by curiosity and a love for problem solving.  
-  Currently on the hunt for exciting opportunities, but in the meantime, I'm building, breaking, and refining my projects.  
-  Stay updated with my latest work on my <a href="https://portfolio-official-theta.vercel.app/">personal site</a>! 🚀</p> 
-
-<h2 align="left">About me</h2>
-
-<p align="left"><br>✨ Creating bugs since 2019<br>📚 I'm currently learning: AI/ML App Dev <br>🎯 Goals: Read More<br>🥊 Fun fact: I like boxing it keeps me sharp in the ring and at the keyboard!</p>
-
-<h2 align="left">I code with</h2>
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+
+[![Tyler Boyer - software engineer](tyler_banner.png)](https://tylerboyer.dev)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tylerboyer.dev-f85149?style=for-the-badge&labelColor=161b22)](https://tylerboyer.dev)
+[![CRAN](https://img.shields.io/badge/Founder-getcran.ai-f85149?style=for-the-badge&labelColor=161b22)](https://getcran.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tyler_Boyer-f85149?style=for-the-badge&labelColor=161b22&logo=linkedin)](https://www.linkedin.com/in/tyler-boyer-0a1326183)
+
 </div>
 
-<h2 align="center">Lets Connect!</h2>
+I build AI-native products end to end: agents, RAG pipelines, and LLM workflows that run in production.
+
+## What I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐾 CRAN — [getcran.ai](https://getcran.ai)
+
+**Founder & Software Engineer**
+
+AI-native shelter management SaaS, live with its first customer. Photo-based intake, care-plan suggestions, and adoption bios. Every AI workflow is confirmed by staff before it acts.
+
+`Next.js` `AWS` `Stripe` `LLM workflows`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Amy — PubGen.AI
+
+**Software Engineer**
+
+PubGen's internal AI agent: agent brain plus a Next.js chat UI, powering task-specific agents including publisher data-migration automation on AWS.
+
+`Python` `Next.js` `Agents` `AWS`
+
+</td>
+</tr>
+</table>
+
+## Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python)
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs)
+![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react)
+![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-161b22?style=flat-square&logo=postgresql)
+![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel)
+
+On the AI side: **agents, RAG, and evals.**
+
+## Stats
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tyler-boyer-0a1326183/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/sGNJ9dzY" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/@TyBoye" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyBoye&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f85149&icon_color=f85149)
+
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TyBoye/TyBoye/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TyBoye/TyBoye/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TyBoye/TyBoye/output/pacman-contribution-graph.svg">
-</picture>
+## Now
+
+- Shipping CRAN features for real shelter staff
+- Next up: an open-source RAG pipeline with automated evals (Ragas + GitHub Actions)
+
+---
+
+<div align="center">
+
+🥊 Off the keyboard: boxing keeps me sharp in the ring and at the desk.
+
+</div>
